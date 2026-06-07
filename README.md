@@ -76,11 +76,5 @@ supply_chain_platform/
 - ✅ Data Visualization (15%): Interactive maps and charts
 - ✅ Innovation (10%): Executive summary generator with AI-like insights
 
-## Team
-[Add your team members here]
-
 ## License
 MIT License
-
-## Deadline
-June 5, 2026, 10:00 AM
